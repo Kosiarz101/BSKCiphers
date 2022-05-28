@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSKCiphers", "BSKCiphers.csproj", "{736C9115-CC15-4EA7-9C8B-2C4E03246573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSKCiphersConsoleEdition", "..\BSKCiphersConsoleEdition\BSKCiphersConsoleEdition.csproj", "{0CB94176-B5F3-4288-82F3-19EB23C58925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736C9115-CC15-4EA7-9C8B-2C4E03246573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736C9115-CC15-4EA7-9C8B-2C4E03246573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736C9115-CC15-4EA7-9C8B-2C4E03246573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736C9115-CC15-4EA7-9C8B-2C4E03246573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB94176-B5F3-4288-82F3-19EB23C58925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB94176-B5F3-4288-82F3-19EB23C58925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB94176-B5F3-4288-82F3-19EB23C58925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB94176-B5F3-4288-82F3-19EB23C58925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A3906C4-DB65-4AE9-A630-85A849BF160E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.exe
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.deps.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.runtimeconfig.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.runtimeconfig.dev.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\bin\Debug\netcoreapp3.1\BSKWorseCiphers.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.csprojAssemblyReference.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.AssemblyInfoInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.AssemblyInfo.cs
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.csproj.CoreCompileInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKWorseCiphers\obj\Debug\netcoreapp3.1\BSKWorseCiphers.genruntimeconfig.cache

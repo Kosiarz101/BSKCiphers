@@ -1,0 +1,13 @@
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.exe
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.deps.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.runtimeconfig.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.runtimeconfig.dev.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\bin\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.csprojAssemblyReference.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.AssemblyInfoInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.AssemblyInfo.cs
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.csproj.CoreCompileInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKCiphersConsoleEdition\obj\Debug\netcoreapp3.1\BSKCiphersConsoleEdition.genruntimeconfig.cache

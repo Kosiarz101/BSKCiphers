@@ -1,0 +1,13 @@
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.exe
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.deps.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.runtimeconfig.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.runtimeconfig.dev.json
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\bin\Debug\netcoreapp3.1\BSKStreamCiphers.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.csprojAssemblyReference.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.AssemblyInfoInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.AssemblyInfo.cs
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.csproj.CoreCompileInputs.cache
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.dll
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.pdb
+F:\Users\Kosiarz\Documents\Projekty\C#\Semestr VI\BSKStreamCiphers\obj\Debug\netcoreapp3.1\BSKStreamCiphers.genruntimeconfig.cache

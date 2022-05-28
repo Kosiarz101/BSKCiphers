@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3y0/AeuSIZq8MflYrUgeBampe4Im2pCiri/uj2PRfvdz+sfoXheB8N19N6RxDK8Z3gyg0+lR/EmLFulwtivY9A==",
+  "success": true,
+  "projectFilePath": "F:\\Users\\Kosiarz\\Documents\\Projekty\\C#\\Semestr VI\\BSKCiphersConsoleEdition\\BSKCiphersConsoleEdition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kosiarz\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.10\\microsoft.netcore.app.runtime.linux-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kosiarz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.10\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kosiarz\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.10\\microsoft.netcore.app.host.linux-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
